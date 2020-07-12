@@ -3,7 +3,7 @@ public class Exit{
     private int y;
     private boolean closed;
     
-    Exit(int x, int y){
+    public Exit(int x, int y){
         this.x = x;
         this.y = y;
         this.closed = true;

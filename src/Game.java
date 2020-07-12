@@ -43,7 +43,7 @@ public class Game {
         }
     }
 
-    Game(int initX, int initY){
+    public Game(int initX, int initY){
         player = new Player(initX, initY);
         dot1 = new Dot(1, 1);
         dot2 = new Dot(2, 2);

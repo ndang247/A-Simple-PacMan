@@ -3,7 +3,7 @@ public class Dot{
     private int y;
     private boolean exists;
     
-    Dot(int x, int y){
+    public Dot(int x, int y){
         this.x = x;
         this.y = y;
         exists = true;

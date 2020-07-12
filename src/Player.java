@@ -4,7 +4,7 @@ public class Player{
     private int collectedDots;
     private boolean exists;
     
-    Player(int x, int y){
+    public Player(int x, int y){
         this.x = x;
         this.y = y;
         this.exists = true;
