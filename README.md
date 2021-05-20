@@ -1,2 +1,2 @@
-# A_Simple_PacMan
-## A very simple PacMan game.
+# A-Simple-PacMan
+A very simple PacMan game.
